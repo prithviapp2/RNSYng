@@ -1,4 +1,4 @@
-# KYAP 
+# RNSYng 
 
 
 ## Table of Contents
@@ -10,7 +10,7 @@
 
 ## Contract
   ```
-    https://github.com/Vishwas1/voting-daap-2017/blob/master/app/contract/Ballot.sol
+    https://github.com/Prithvi.app2/RNSYng/blob/master/app/contract/Ballot.sol
   ```
 ## Contributing
 
@@ -24,7 +24,7 @@ The Team
 
 We are 
 
-### Avengers-420
+### AgriProPark
 
 Of BTS BLOCKCHAIN HACKATHON 
 
