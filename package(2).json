@@ -1,24 +1,165 @@
 {
-  "name": "node-assignment",
-  "version": "1.0.0",
-  "description": "Node assignment for Charcoal",
-  "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+  "_args": [
+    [
+      "acorn-babel@0.11.1-38",
+      "C:\\Users\\Vikas Sharma\\Desktop\\voting-project\\voting-daap-2017"
+    ]
+  ],
+  "_from": "acorn-babel@0.11.1-38",
+  "_id": "acorn-babel@0.11.1-38",
+  "_inBundle": false,
+  "_integrity": "sha1-bPewwHkaEaBe9gIL8G7zSzAIZ2g=",
+  "_location": "/acorn-babel",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "acorn-babel@0.11.1-38",
+    "name": "acorn-babel",
+    "escapedName": "acorn-babel",
+    "rawSpec": "0.11.1-38",
+    "saveSpec": null,
+    "fetchSpec": "0.11.1-38"
   },
-  "author": "Vishwas B Anand",
-  "license": "ISC",
-  "dependencies": {
-    "aadhaar-validator": "^1.0.5",
-    "asyncawait": "^1.0.6",
-    "body-parser": "^1.17.2",
-    "ejs": "^2.5.7",
-    "express": "^4.15.3",
-    "jsonwebtoken": "^7.4.2",
-    "mongoose": "^4.11.7",
-    "morgan": "^1.8.2",
-    "nodemon": "^1.11.0",
-    "web3": "^0.18.2"
-  }
+  "_requiredBy": [],
+  "_resolved": "https://registry.npmjs.org/acorn-babel/-/acorn-babel-0.11.1-38.tgz",
+  "_spec": "0.11.1-38",
+  "_where": "C:\\Users\\Vikas Sharma\\Desktop\\voting-project\\voting-daap-2017",
+  "bugs": {
+    "url": "https://github.com/babel/acorn-babel/issues"
+  },
+  "contributors": [
+    {
+      "name": "List of Acorn contributors. Updated before every release."
+    },
+    {
+      "name": "Alistair Braidwood"
+    },
+    {
+      "name": "Aparajita Fishman"
+    },
+    {
+      "name": "Arian Stolwijk"
+    },
+    {
+      "name": "Artem Govorov"
+    },
+    {
+      "name": "Brandon Mills"
+    },
+    {
+      "name": "Charles Hughes"
+    },
+    {
+      "name": "Conrad Irwin"
+    },
+    {
+      "name": "David Bonnet"
+    },
+    {
+      "name": "impinball"
+    },
+    {
+      "name": "Ingvar Stepanyan"
+    },
+    {
+      "name": "Jiaxing Wang"
+    },
+    {
+      "name": "Johannes Herr"
+    },
+    {
+      "name": "Jürg Lehni"
+    },
+    {
+      "name": "keeyipchan"
+    },
+    {
+      "name": "krator"
+    },
+    {
+      "name": "Marijn Haverbeke"
+    },
+    {
+      "name": "Martin Carlberg"
+    },
+    {
+      "name": "Mathias Bynens"
+    },
+    {
+      "name": "Mathieu 'p01' Henri"
+    },
+    {
+      "name": "Max Schaefer"
+    },
+    {
+      "name": "Mihai Bazon"
+    },
+    {
+      "name": "Mike Rennie"
+    },
+    {
+      "name": "Oskar Schöldström"
+    },
+    {
+      "name": "Paul Harper"
+    },
+    {
+      "name": "Peter Rust"
+    },
+    {
+      "name": "PlNG"
+    },
+    {
+      "name": "r-e-d"
+    },
+    {
+      "name": "Rich Harris"
+    },
+    {
+      "name": "Sebastian McKenzie"
+    },
+    {
+      "name": "zsjforcn"
+    }
+  ],
+  "description": "Acorn fork used by babel",
+  "devDependencies": {
+    "regenerate": "~0.6.2",
+    "unicode-7.0.0": "~0.1.5"
+  },
+  "homepage": "https://github.com/babel/acorn-babel#readme",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://marijnhaverbeke.nl/acorn/LICENSE"
+    }
+  ],
+  "main": "acorn_csp.js",
+  "maintainers": [
+    {
+      "name": "Marijn Haverbeke",
+      "email": "marijnh@gmail.com",
+      "url": "http://marijnhaverbeke.nl"
+    },
+    {
+      "name": "Ingvar Stepanyan",
+      "email": "me@rreverser.com",
+      "url": "https://github.com/RReverser"
+    },
+    {
+      "name": "Sebastian McKenzie",
+      "email": "sebmck@gmail.com",
+      "url": "http://sebmck.com"
+    }
+  ],
+  "name": "acorn-babel",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/babel/acorn-babel.git"
+  },
+  "scripts": {
+    "test": "node test/run.js"
+  },
+  "version": "0.11.1-38"
 }
